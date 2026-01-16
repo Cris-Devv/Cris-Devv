@@ -3,7 +3,7 @@
 <p>Sou técnico em Desenvolvimento de Sistemas e atualmente estou focado no <strong>Back-end</strong>, <br>mas gostaria de me tornar <strong>Fullstack</strong> um dia</p>
 <hr>
 
-## Tecnologias que estudo:
+### Tecnologias que estudo:
 <ul>
 <li>PHP</li>
 <li>Javascript</li>
