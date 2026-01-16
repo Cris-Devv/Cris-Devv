@@ -15,4 +15,4 @@
 <hr>
 
 ![Gmail](https://img.shields.io/badge/-GMAIL-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0E76A8?logo=inspire&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristovao-vinicius/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0E76A8?logo=inspire&style=for-the-badge)](https://www.linkedin.com/in/cristovao-vinicius/)
