@@ -4,15 +4,13 @@
 <hr>
 
 ### Tecnologias que estudo:
-<ul>
-<li>PHP</li>
-<li>Javascript</li>
-<li>Python</li>
-<li>MySQL</li>
-<li>HTML5 & CSS3</li>
-</ul>
+➣ PHP
+➣ Javascript
+➣ Python
+➣ MySQL
+➣ HTML5 & CSS3
 
 <hr>
 
 ![Gmail](https://img.shields.io/badge/-GMAIL-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0E76A8?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristovao-vinicius/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0E76A8?logo=inspire&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristovao-vinicius/)
