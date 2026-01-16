@@ -1,16 +1,18 @@
-## Hi there 👋
+## Opa, tudo bem? Eu sou o Cristovão! 🤙
 
-<!--
-**Cris-Devv/Cris-Devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Sou técnico em Desenvolvimento de Sistemas e atualmente estou focado no <strong>Back-end</strong>, <br>mas gostaria de me tornar <strong>Fullstack</strong> um dia</p>
+<hr>
 
-Here are some ideas to get you started:
+## Tecnologias que estudo:
+<ul>
+<li>PHP</li>
+<li>Javascript</li>
+<li>Python</li>
+<li>MySQL</li>
+<li>HTML5 & CSS3</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+![Gmail](https://img.shields.io/badge/-GMAIL-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0E76A8?logo=gmail&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cristovao-vinicius/)
