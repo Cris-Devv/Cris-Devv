@@ -4,10 +4,10 @@
 <hr>
 
 ### Tecnologias que estudo:
-➣ PHP
-➣ Javascript
-➣ Python
-➣ MySQL
+➣ PHP <br>
+➣ Javascript <br>
+➣ Python <br>
+➣ MySQL <br>
 ➣ HTML5 & CSS3
 
 <hr>
