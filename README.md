@@ -3,7 +3,7 @@
 <p>Sou técnico em Desenvolvimento de Sistemas e atualmente estou focado no <strong>Back-end</strong>, <br>mas gostaria de me tornar <strong>Fullstack</strong> um dia.</p>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-Devv&custom_title=Linguagens%20Que%20Mais%20Uso:&theme=onedark&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-Devv&custom_title=Linguagens%20Que%20Mais%20Tenho%20Usado:&theme=onedark&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
