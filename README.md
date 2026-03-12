@@ -3,14 +3,7 @@
 <p>Sou técnico em Desenvolvimento de Sistemas e atualmente estou focado no <strong>Back-end</strong>, <br>mas gostaria de me tornar <strong>Fullstack</strong> um dia.</p>
 <hr>
 
-### Tecnologias que estudo:
-<ul>
-<li>PHP</li>
-<li>Javascript</li>
-<li>Python</li>
-<li>MySQL</li>
-<li>HTML5 & CSS3</li>
-</ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris-Devv&custom_title=Linguagens%20Que%20Mais%20Uso:)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
