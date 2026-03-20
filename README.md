@@ -1,6 +1,6 @@
 ### Opa, tudo bem? Eu sou o Cristovão! 🤙
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Desenvolvimento de Sistemas. <br> atualmente estou focado no <strong>Back-end</strong>, <br>mas gostaria de me tornar <strong>Fullstack</strong> um dia.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou focado no <strong>Back-end</strong>, <br> mas gostaria de me tornar <strong>Fullstack</strong> um dia.</p>
 
 ![Sonic](https://media.tenor.com/2hx2HH7kJI8AAAAM/chili-dogs-sonic.gif)
 
